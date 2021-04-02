@@ -1,4 +1,4 @@
-# ALTGR_Turkish
+# Turkish ALT_GR keyboard layout for Windows
 Windows US English keyboard layout for typing TURKISH characters using the ALT_GR (right ALT key).
 
 
