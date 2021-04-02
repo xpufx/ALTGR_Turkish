@@ -7,7 +7,7 @@ Windows US English keyboard layout for typing TURKISH characters using the ALT_G
 
 
 
-### Download from Releases.
+### Direct download [v0.1 here](https://github.com/oktayaa/ALTGR_Turkish/releases/download/v0.1/usagrtr.zip)
 
 
 This layout for users who are familiar with the US English Q keyboard layout. (Actual physical keyboard layout does not matter)
