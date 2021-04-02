@@ -1,7 +1,13 @@
-# Download from Releases.
+
 
 # Turkish ALT_GR keyboard layout for Windows
+
+
 Windows US English keyboard layout for typing TURKISH characters using the ALT_GR (right ALT) key.
+
+
+
+### Download from Releases.
 
 
 This layout for users who are familiar with the US English Q keyboard layout. (Actual physical keyboard layout does not matter)
