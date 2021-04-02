@@ -13,6 +13,14 @@ You can download the install package from the Releases area or download the sour
 
 Microsoft Keyboard Layout Creator (MSKLC) (https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 
+# Regular layout (no ALT_GR)
+[Alt text](altgr-tr-NORMAL.png?raw=true "Regular layout")
+
+# ALT_GR layout Lower Case Letters
+[Alt text](altgr-tr-ALTGR_LC.png.png?raw=true "ALT_GR Lower Case layout")
+
+# ALT_GR layout Upper Case Letters
+[Alt text](altgr-tr-ALTGR_UC.png?raw=true "ALT_GR Upper Case layout")
 
 # Note
 
