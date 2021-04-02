@@ -12,3 +12,8 @@ Example: To type ı,  hold down ALT_GR and input i.  To type İ, hold down ALT_G
 You can download the install package from the Releases area or download the source file (US-AGRTR.klc) and compile your own package by loading the source file  into 
 
 Microsoft Keyboard Layout Creator (MSKLC) (https://www.microsoft.com/en-us/download/details.aspx?id=102134).
+
+
+# Note
+
+All plain US English keys are also overloaded such that when used in combination with ALT_GR they will input the same plain characters. This was addded because otherwise it acts like a Shift (ALT_GR is actually just CTRL+SHIFT) and causes accidentally capitalizing the plain letters when typing fast.
