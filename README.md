@@ -9,6 +9,6 @@ Since these keys do not exist in a regular English encoding, applications using 
 Example: To type ı,  hold down ALT_GR and input i.  To type İ, hold down ALT_GR and SHIFT and input i.
 
 
-You can download the install package from the Releases area or download the source file and compile your own package by loading the source file (US-AGRTR.klc) into 
+You can download the install package from the Releases area or download the source file (US-AGRTR.klc) and compile your own package by loading the source file  into 
 
 Microsoft Keyboard Layout Creator (MSKLC) (https://www.microsoft.com/en-us/download/details.aspx?id=102134).
